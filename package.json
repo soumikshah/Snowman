@@ -1,0 +1,14 @@
+{
+  "name": "Snowman",
+  "version": "1.0.1",
+  "description": "Snowman Game where a user get's randomly selected word from a text file and has to be guessed correctly. You get 5 chances for the same and will exit once you have used your chances.",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Niket Gosrani",
+  "license": "ISC",
+  "dependencies": {
+    "read-file": "^0.1.2"
+  }
+}
