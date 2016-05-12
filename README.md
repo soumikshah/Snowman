@@ -1,6 +1,6 @@
 # Snowman
 
-Created the game SnowMan as a Node.js Command Line App.
+Created the game SnowMan as a Node.js Command Line App (It was developed initally by niket.gosrani@gmail.com and harshgadhia@gmail.com for class CS454 but later on some new features were added and some modications were made and shown as a demo application to explain about Node.js and its module in CS520 class).
 
 # How the Game Is Played:
 
